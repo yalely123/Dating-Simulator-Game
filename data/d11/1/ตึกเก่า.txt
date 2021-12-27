@@ -1,0 +1,4 @@
+background:oldbuilding
+player:ไม่มีใครอยู่เลย
+กลับไปเรียนไปดีกว่าเรา
+end

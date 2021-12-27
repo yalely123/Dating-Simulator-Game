@@ -1,0 +1,5 @@
+background:classroomA
+player:รีบกลับบ้านดีกว่า
+พรุ่งนี้จะเจอเรื่องดีๆเเน่เลย
+end
+

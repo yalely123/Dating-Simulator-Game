@@ -1,0 +1,5 @@
+day:2
+playername:หยก
+Hana:0
+Nain:0
+Arika:0
